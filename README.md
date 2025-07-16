@@ -3,11 +3,8 @@
 
 
 
-- 🌱 I’m currently learning **backend programming**
 
-- 👯 I’m looking to collaborate on **Frontend react projects**
-
-- 💬 Ask me about **react, redux, tailwind**
+- 💬 Ask me about **react, redux, tailwind, nodejs, expressjs, mongodb, sql**
 
 - 📫 How to reach me **praveen.220302@gmail.com**
 
